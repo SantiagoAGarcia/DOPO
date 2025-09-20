@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=DayManager
+comment0.text=\r\n\ Maneja\ los\ d\u00EDas\ de\ la\ simulaci\u00F3n\ SilkRoad.\r\n\ \r\n\ @author\ Buitrago\ -\ Garcia\r\n\ @version\ 2.0\r\n
+comment1.params=totalDays
+comment1.target=DayManager(int)
+comment2.params=
+comment2.target=void\ nextDay()
+comment3.params=
+comment3.target=int\ getCurrentDay()
+comment4.params=
+comment4.target=boolean\ isFinished()
+numComments=5
