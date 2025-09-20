@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=ProfitBar
+comment0.text=\r\n\ Barra\ de\ seguimiento\ de\ profit\ en\ SilkRoad.\r\n\ \r\n\ @author\ Buitrago\ -\ Garcia\r\n\ @version\ 2.0\r\n
+comment1.params=maxProfit
+comment1.target=ProfitBar(int)
+comment2.params=profit
+comment2.target=void\ updateProfit(int)
+comment3.params=
+comment3.target=int\ getCurrentProfit()
+comment4.params=
+comment4.target=int\ getMaxProfit()
+comment5.params=maxProfit
+comment5.target=void\ setMaxProfit(int)
+comment6.params=
+comment6.target=void\ reset()
+numComments=7
