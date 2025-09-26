@@ -3,7 +3,7 @@ Repositorio creado para el proyecto y los distintos ciclos
 
 
 Retrospectiva ciclo 2:
-1. ¿Cuáles fueron los mini-ciclos definidos? Justifíquenlos.
+### 1. ¿Cuáles fueron los mini-ciclos definidos? Justifíquenlos.
 
 ## 1. CICLO DE CREACIÓN DE OBJETOS
 
